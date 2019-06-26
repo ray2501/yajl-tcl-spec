@@ -1,8 +1,8 @@
 #!/usr/bin/tclsh
 
 set arch "x86_64"
-set base "yajl-tcl-1.6.2"
-set fileurl "https://github.com/flightaware/yajl-tcl/archive/v1.6.2.tar.gz"
+set base "yajl-tcl-1.7.0"
+set fileurl "https://github.com/flightaware/yajl-tcl/archive/v1.7.0.tar.gz"
 
 set var [list wget $fileurl -O $base.tar.gz]
 exec >@stdout 2>@stderr {*}$var

@@ -4,7 +4,7 @@
 
 Name:          yajl-tcl
 Summary:       Tcl bindings for Yet Another JSON Library
-Version:       1.6.2
+Version:       1.7.0
 Release:       0
 License:       BSD-3-Clause
 Group:         Development/Libraries/Tcl
